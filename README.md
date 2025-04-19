@@ -11,7 +11,7 @@
   
 - 📫 To contact me, anyone can always
   - email me at genriquezagus@gmail.com
-  - call me at +352 899694452
+  - call me at +353 899694452
   - text me in whatsapp at +52 4779175693
   
 - 😄 Pronouns: He/Him
