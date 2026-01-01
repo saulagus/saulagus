@@ -1,24 +1,34 @@
-- 👋 Hello everyone! My name is Saul Agustin Güemes Enriquez from Mexico.
-  I am a 19 year old Computer Science student with aspirations of becoming a software developer and taking my skills
-  and passions to IT.
-  
-- 👀 My biggest interest is listening to music albums, additionally I am a vinyl collectionist!
+# Saúl Agustín Güemes Enríquez
 
-- 🌱 I’m currently focusing on learning Java and object oriented programming. My interest lies on understanding algorithms and various
-  data structures.
-  
-- 💞️ I’m looking to collaborate with anyone passionate about coding and algorithms.
-  
-- 📫 To contact me, anyone can always
-  - email me at genriquezagus@gmail.com
-  - call me at +353 899694452
-  - text me in whatsapp at +52 4779175693
-  
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: Did you know that mankind is closer to the time of the T-Rex than the T-Rex is to the time of the Stegosaurus? 
+### 👨‍💻 CS Student @ Griffith College Cork | 🇮🇪 Based in Ireland
 
-<!---
-saulagus/saulagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science student with a passion for **Algorithms**, **Java**, and **Vinyl Collecting**. I am currently focusing on Object-Oriented Programming and Data Structures.
+
+---
+
+### Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Saul's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saulagus&theme=dark&hide_border=true&background=0d1117" alt="Saul's Streak" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with me
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:genriquezagus@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
