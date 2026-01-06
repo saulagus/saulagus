@@ -25,10 +25,23 @@ I am a Computer Science student with a passion for **Algorithms**, **Java**, and
 
 ---
 
-### 📫 Connect with me
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+### My Links:
+<a href="https://linkedin.com/in/guemesenriquez/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:genriquezagus@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://twitter.com/sagusguemese">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/agustin_guemes/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/genriquezagus">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/nDQoi0Pb3v">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
