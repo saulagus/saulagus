@@ -1,47 +1,100 @@
-# Saúl Agustín Güemes Enríquez
 
-### 👨‍💻 CS Student @ Griffith College Cork | 🇮🇪 Based in Ireland
 
-I am a Computer Science student with a passion for **Algorithms**, **Java**, and **Vinyl Collecting**. I am currently focusing on Object-Oriented Programming and Data Structures.
+### Saúl Agustín Güemes Enríquez
 
----
+**CS @ Griffith College Cork** &nbsp;·&nbsp; **87% First Class Honours** &nbsp;·&nbsp; **Building things with Java, JS & caffeine**
 
-### Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+🇲🇽  → 🇮🇪 &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guemesenriquez/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:genriquezagus@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/genriquezagus)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nDQoi0Pb3v)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sagusguemese)
 
-### Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Saul's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saulagus&theme=dark&hide_border=true&background=0d1117" alt="Saul's Streak" width="48%" />
-</p>
+</div>
 
 ---
 
-### My Links:
-<a href="https://linkedin.com/in/guemesenriquez/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:genriquezagus@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/sagusguemese">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://instagram.com/agustin_guemes/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/genriquezagus">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
-<a href="https://leetcode.com/nDQoi0Pb3v">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+## `$ whoami`
 
+```java
+public class Saul extends Developer {
+
+    String[] currentlyStudying = { "Data Structures", "OOP in Java", "Database Systems" };
+    String[] languages         = { "Spanish 🇲🇽 (native)", "English C1 🇬🇧", "German B2 🇩🇪" };
+    String[] funFacts          = { "SAT 94th percentile", "IELTS 8.0", "Represented Ireland 🏆 in a national CS competition" };
+    String   listeningTo       = "Vinyl — always";
+
+    @Override
+    public String toString() {
+        return "CS student obsessed with clean code, algorithms, and good music.";
+    }
+}
+```
+
+---
+
+## ⚙️ Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Tools & Libraries
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=greensock&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=flat-square&logo=junit5&logoColor=white)
+![Gson](https://img.shields.io/badge/Gson-REST-%23E37400.svg?style=flat-square&logo=google&logoColor=white)
+
+#### Concepts I've dug into
+![Big O](https://img.shields.io/badge/Big--O%20Complexity-%23121212.svg?style=flat-square&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-%234B8BBE.svg?style=flat-square&logo=wolfram&logoColor=white)
+![Stats](https://img.shields.io/badge/Probability%20%26%20Stats-%23CC342D.svg?style=flat-square&logo=r&logoColor=white)
+![DB](https://img.shields.io/badge/DB%20Normalisation-%230064a5.svg?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🎃 [Samhain — Cultural Website](https://github.com/saulagus)
+> **JavaScript · CSS · GSAP**
+
+Led JS development in a 3-person team. Built a **custom in-browser game from scratch** — game loop, collision detection, full mobile responsiveness. Animated with GSAP for a polished Halloween-themed cultural experience.
+
+---
+
+### 🧠 [Quizzera — Java Trivia App](https://github.com/saulagus)
+> **Java · REST API · Gson**
+
+CLI trivia app consuming the **Open Trivia Database API**. Features dynamic difficulty, category selection, and clean JSON-to-object mapping with Gson. Tested with JUnit.
+
+---
+
+## 🏅 Highlights
+
+| | |
+|---|---|
+| 🎓 | **87% First Class Honours** — top module scores: Client-Side Web Dev (95%), Programming (91%) |
+| 🗣️ | Elected **Class Representative** Year 1 & Year 2 |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saulagus&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>🎵 Currently spinning something good on vinyl — Cork, Ireland</sub>
+</div>
