@@ -1,10 +1,10 @@
-
+<div align="center">
 
 ### Saúl Agustín Güemes Enríquez
 
 **CS @ Griffith College Cork** &nbsp;·&nbsp; **87% First Class Honours** &nbsp;·&nbsp; **Building things with Java, JS & caffeine**
 
-🇲🇽  → 🇮🇪 &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
+🇲🇽 → 🇨🇦 → 🇮🇪 &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guemesenriquez/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:genriquezagus@gmail.com)
@@ -79,8 +79,11 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 
 | | |
 |---|---|
+| 🏆 | Selected to represent **Griffith College** in the Ireland Computer Programming Competition 2025 |
 | 🎓 | **87% First Class Honours** — top module scores: Client-Side Web Dev (95%), Programming (91%) |
 | 🗣️ | Elected **Class Representative** Year 1 & Year 2 |
+| ✍️ | **2nd place** — Youth Essay Contest, Korean Association of Mexico (national field) |
+| ✈️ | Exchange student in Canada — top grades in Language Arts & Social Studies |
 
 ---
 
@@ -88,13 +91,23 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saulagus&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
+## 🎵 Now Playing
+
 <div align="center">
-<sub>🎵 Currently spinning something good on vinyl — Cork, Ireland</sub>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q2cxfkw25a6qubz72u61enr7i&cover_image=true&theme=neon&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Cork, Ireland 🇮🇪</sub>
 </div>
