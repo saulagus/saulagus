@@ -4,7 +4,7 @@
 
 **CS @ Griffith College Cork** &nbsp;·&nbsp; **87% First Class Honours** &nbsp;·&nbsp; **Building things with Java, JS & caffeine**
 
-🇲🇽 → 🇨🇦 → 🇮🇪 &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
+🇲🇽  &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guemesenriquez/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:genriquezagus@gmail.com)
@@ -23,12 +23,11 @@ public class Saul extends Developer {
 
     String[] currentlyStudying = { "Data Structures", "OOP in Java", "Database Systems" };
     String[] languages         = { "Spanish 🇲🇽 (native)", "English C1 🇬🇧", "German B2 🇩🇪" };
-    String[] funFacts          = { "SAT 94th percentile", "IELTS 8.0", "Represented Ireland 🏆 in a national CS competition" };
-    String   listeningTo       = "Vinyl — always";
+    String   listeningTo       = "The heaviest of metal";
 
     @Override
     public String toString() {
-        return "CS student obsessed with clean code, algorithms, and good music.";
+        return "CS student with the best music taste.";
     }
 }
 ```
@@ -79,7 +78,6 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 
 | | |
 |---|---|
-| 🏆 | Selected to represent **Griffith College** in the Ireland Computer Programming Competition 2025 |
 | 🎓 | **87% First Class Honours** — top module scores: Client-Side Web Dev (95%), Programming (91%) |
 | 🗣️ | Elected **Class Representative** Year 1 & Year 2 |
 | ✍️ | **2nd place** — Youth Essay Contest, Korean Association of Mexico (national field) |
@@ -102,7 +100,7 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q2cxfkw25a6qubz72u61enr7i&cover_image=true&theme=neon&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q2cxfkw25a6qubz72u61enr7i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
