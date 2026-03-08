@@ -21,7 +21,7 @@
 ```java
 public class Saul extends Developer {
 
-    String[] currentlyStudying = { "Data Structures", "OOP in Java", "Database Systems" };
+    String[] currentlyStudying = { "DSA", "Linear Algebra", "Chinese" };
     String[] languages         = { "Spanish 🇲🇽 (native)", "English C1 🇬🇧", "German B2 🇩🇪" };
     String   listeningTo       = "The heaviest of metal";
 
