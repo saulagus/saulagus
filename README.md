@@ -1,16 +1,18 @@
 <div align="center">
 
-### Saúl Agustín Güemes Enríquez
+<img src="./banner.svg" alt="Saúl Güemes — CS · AI · Mandarin · Metal" width="100%" />
 
-**CS @ Griffith College Cork** &nbsp;·&nbsp; **87% First Class Honours** &nbsp;·&nbsp; **Building things with Java, JS & caffeine**
+# `Saúl Agustín Güemes Enríquez`
 
-🇲🇽  &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Vinyl Collector &nbsp;&nbsp;|&nbsp;&nbsp; ♟️ Algorithm Enthusiast
+### CS @ Griffith College Cork · First Class Honours · AI-bound
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guemesenriquez/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:genriquezagus@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/genriquezagus)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nDQoi0Pb3v)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sagusguemese)
+**🇲🇽 → 🇮🇪 → 🇨🇳** &nbsp;·&nbsp; Shanghai-bound · 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guemesenriquez/)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:genriquezagus@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/genriquezagus)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nDQoi0Pb3v)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sagusguemese)
 
 </div>
 
@@ -19,69 +21,86 @@
 ## `$ whoami`
 
 ```java
-public class Saul extends Developer {
+public class Saul extends Student {
 
-    String[] currentlyStudying = { "DSA", "Linear Algebra", "Chinese" };
-    String[] languages         = { "Spanish 🇲🇽 (native)", "English C1 🇬🇧", "German B2 🇩🇪" };
-    String   listeningTo       = "The heaviest of metal";
+    String[] nowStudying   = { "DSA", "Linear Algebra", "中文 (HSK 1)" };
+    String[] languages     = { "Español 🇲🇽 native", "English C1", "Deutsch B2", "中文 learning" };
+    String[] buildingToward = { "Mandarin → HSK 5–6", "AI / ML fundamentals", "CS that actually sticks" };
+    String   fuel          = "the heaviest of metal + a good espresso";
 
     @Override
     public String toString() {
-        return "CS student with the best music taste.";
+        return "Student of computers, languages, and the long game.";
     }
 }
 ```
 
 ---
 
+## 🎯 Where I'm Headed
+
+Second-year CS student in Cork. The road map:
+
+- **Sep 2026** — Intensive Mandarin at **Shanghai International Studies University** (SISU)
+- **2027 →** — Bachelor's in **Artificial Intelligence** in China
+- **Long game** — Serious AI/ML work built on strong CS fundamentals and fluent Mandarin
+
+This profile is a paper trail of the climb.
+
+---
+
+## 📚 Currently Learning (out loud)
+
+| Track | What | Why it matters to me |
+|---|---|---|
+| 🧮 **Linear Algebra** | Matrices, vector spaces, eigendecomposition | Every neural network is linear algebra in disguise. I want to *see* the math when I read a paper, not skim past it. |
+| 🧠 **Neural Networks** | Building them from scratch — forward pass, backprop, gradient descent | Frameworks are easy; understanding *why* they work is the edge. I'd rather code a toy network by hand than import one I can't explain. |
+| 🧵 **DSA** | Arrays, trees, graphs, the classic problem set | Non-negotiable base layer for any serious CS path — and the fastest way to train the kind of precise thinking I want. |
+| 🀄 **Mandarin (HSK 1)** | Daily Anki reps, characters, tones | I'm moving to Shanghai in Sep 2026. Every card now is a future conversation I get to have instead of miss. |
+
+---
+
 ## ⚙️ Stack
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Tools & Libraries
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=flat-square&logo=greensock&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=flat-square&logo=junit5&logoColor=white)
-![Gson](https://img.shields.io/badge/Gson-REST-%23E37400.svg?style=flat-square&logo=google&logoColor=white)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-#### Concepts I've dug into
-![Big O](https://img.shields.io/badge/Big--O%20Complexity-%23121212.svg?style=flat-square&logoColor=white)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-%234B8BBE.svg?style=flat-square&logo=wolfram&logoColor=white)
-![Stats](https://img.shields.io/badge/Probability%20%26%20Stats-%23CC342D.svg?style=flat-square&logo=r&logoColor=white)
-![DB](https://img.shields.io/badge/DB%20Normalisation-%230064a5.svg?style=flat-square&logo=databricks&logoColor=white)
+**Dug into**
+![Big O](https://img.shields.io/badge/Big--O-121212?style=flat-square)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-4B8BBE?style=flat-square)
+![Probability](https://img.shields.io/badge/Probability_%26_Stats-CC342D?style=flat-square)
+![Databases](https://img.shields.io/badge/DB_Normalisation-0064A5?style=flat-square)
 
 ---
 
 ## 🚀 Projects
 
-### 🎃 [Samhain — Cultural Website](https://github.com/saulagus)
+### 🧪 Chemotherapy Progress Dashboard — *in progress*
+> **Full-stack · learning-in-public · sprint-based build**
+
+A dashboard for tracking chemotherapy treatment progress, inspired by my internship in an oncology unit. Currently on sprint 2 of 4. Built with AI-assisted coding and annotated as I go — the goal is that I can defend every decision in the codebase.
+
+### 🧠 Quizzera — Java Trivia App
+> **Java · REST API · Gson · JUnit**
+
+CLI trivia app consuming the Open Trivia DB API. Clean JSON-to-object mapping, dynamic difficulty and category selection, tested with JUnit. A good exercise in consuming external APIs with strong typing.
+
+### 🎃 Samhain — Cultural Website
 > **JavaScript · CSS · GSAP**
 
-Led JS development in a 3-person team. Built a **custom in-browser game from scratch** — game loop, collision detection, full mobile responsiveness. Animated with GSAP for a polished Halloween-themed cultural experience.
-
----
-
-### 🧠 [Quizzera — Java Trivia App](https://github.com/saulagus)
-> **Java · REST API · Gson**
-
-CLI trivia app consuming the **Open Trivia Database API**. Features dynamic difficulty, category selection, and clean JSON-to-object mapping with Gson. Tested with JUnit.
-
----
-
-## 🏅 Highlights
-
-| | |
-|---|---|
-| 🎓 | **87% First Class Honours** — top module scores: Client-Side Web Dev (95%), Programming (91%) |
-| 🗣️ | Elected **Class Representative** Year 1 & Year 2 |
-| ✍️ | **2nd place** — Youth Essay Contest, Korean Association of Mexico (national field) |
-| ✈️ | Exchange student in Canada — top grades in Language Arts & Social Studies |
+Led JS development in a 3-person team. Built a **custom in-browser game from scratch** — game loop, collision detection, mobile-responsive — animated with GSAP for a Halloween-themed cultural experience.
 
 ---
 
@@ -89,14 +108,14 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saulagus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saulagus&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 🎵 Now Playing
+## 🎵 Currently Fueling Study Sessions
 
 <div align="center">
 
@@ -107,5 +126,7 @@ CLI trivia app consuming the **Open Trivia Database API**. Features dynamic diff
 ---
 
 <div align="center">
-<sub>Cork, Ireland 🇮🇪</sub>
+
+<sub><i>Cork, Ireland 🇮🇪 · Next stop: Shanghai 上海</i></sub>
+
 </div>
